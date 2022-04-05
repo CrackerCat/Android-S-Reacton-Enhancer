@@ -1,0 +1,6 @@
+id=Android-S-Reacton-Enhancer
+name=Android S Reacton Enhancer
+version=v1
+versionCode=1
+author=EXKonan @Github, Asia_Chang @Coolapk
+description=By enabling system-level Vulkan API rendering, FUSE-Passthrough and SmartDark to reduce response latency, improve performance, reduce CPU overhead when drawing graphics, and extend OLED screen and battery life.  通过启用系统级Vulkan API渲染、FUSE-Passthrough和SmartDark来减少响应延迟，提高性能，减少绘制图形时的CPU开销，并延长OLED屏幕和电池寿命。
